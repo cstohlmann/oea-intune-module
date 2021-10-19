@@ -44,7 +44,7 @@ Sample out-of-the box assets for this OEA module include:
 5. [PowerBI Templates](https://github.com/cstohlmann/oea-intune-module/tree/main/powerbi): A Power BI sample template making it easy to interact with Microsoft Intune data.
 
  <p align="center">
- (INSERT POWERBI DASHBOARD VISUAL HERE) 
+ <strong><em> (INSERT POWERBI DASHBOARD VISUAL HERE) </strong></em>
  </p>
  
 The Microsoft Intune module [welcome contributions](https://github.com/microsoft/OpenEduAnalytics/blob/main/CONTRIBUTING.md).
