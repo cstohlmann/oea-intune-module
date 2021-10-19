@@ -3,7 +3,7 @@ Microsoft Intune is a cloud-based service that focuses on the management of devi
 
 You can use this OEA Microsoft Intune module to incorporate device data into your organization's OEA data lakes.
  
- ![alt text](https://github.com/microsoft/OpenEduAnalytics/blob/main/modules/Microsoft_Graph/docs/images/Graph%20visual.png)
+ ![alt text](https://github.com/cstohlmann/oea-intune-module/blob/main/docs/images/Intune%20visual.png)
  <p align="center">
  <emp>
  (Microsoft documentation on Intune: https://docs.microsoft.com/en-us/mem/intune/fundamentals/what-is-intune) 
