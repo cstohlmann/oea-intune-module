@@ -8,13 +8,13 @@ The [name of module] template consists of [number of pages] page:
  - visual 4 name - description of visual
 
  <p align="center">
- (INSERT POWERBI DASHBOARD VISUAL HERE) 
+ <strong><em> (INSERT POWERBI DASHBOARD VISUAL HERE) </strong></em>
  </p>
 
 ## Star Schema
 This PowerBI module is made up of the following tables: [list table names]. The dimension table is [name of dimension table] and the fact tables are [list of fact tables].
  <p align="center">
- (INSERT STAR SCHEMA HERE) 
+ <strong><em> (INSERT STAR SCHEMA HERE) </strong></em>
  </p>
 
 ### Table Details 
