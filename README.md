@@ -1,5 +1,14 @@
 # Microsoft Intune Module
-Provide an overview of the module.
+Microsoft Intune is a cloud-based service that focuses on the management of devices connected to a system. Microsoft Intune provides a wealth of options, from setting up which websites devices within a system can access, to extracting data of the devices linked to that system through the management of Microsoft Graph API endpoints. For the purpose of this module, we will be focusing on the collection and use of that device data within Azure Synapse Analytics. 
+
+You can use this OEA Microsoft Intune module to incorporate device data into your organization's OEA data lakes.
+ 
+ ![alt text](https://github.com/microsoft/OpenEduAnalytics/blob/main/modules/Microsoft_Graph/docs/images/Graph%20visual.png)
+ <p align="center">
+ <emp>
+ (Microsoft documentation on Intune: https://docs.microsoft.com/en-us/mem/intune/fundamentals/what-is-intune) 
+ </emp>
+ </p>
 
 ## Problem Statement
 Define the problem you seek to solve using this module.
@@ -23,7 +32,7 @@ Sample out-of-the box assets for this OEA module include:
  (INSERT POWERBI DASHBOARD VISUAL HERE) 
  </p>
  
-The [name of module] module [welcome contributions](https://github.com/microsoft/OpenEduAnalytics/blob/main/CONTRIBUTING.md).
+The Microsoft Intune module [welcome contributions](https://github.com/microsoft/OpenEduAnalytics/blob/main/CONTRIBUTING.md).
 
 This module was developed by [name of contributor] in partnership with [name of education system, if any]. The architecture and reference implementation for all modules is built on [Azure Synapse Analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/) - with [Azure Data Lake Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) as the storage backbone, and [Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) providing the role-based access control.
 
