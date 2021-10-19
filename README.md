@@ -1,4 +1,4 @@
-# MS Intune Module (Not sure if this is the right name for the module)
+# Microsoft Intune Module
 Provide an overview of the module.
 
 ## Problem Statement
