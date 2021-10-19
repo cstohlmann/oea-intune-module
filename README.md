@@ -27,7 +27,7 @@ This Microsoft Intune module for OEA will leverage the Azure Synapse environment
      * Number of students with more than one device
      * Day and time of day of last device check in
      * Number of devices based on different OSs (i.e. Windows, iOS/iPadOS, macOS, Android)
-     * Number of devices based on ownership (i.e. School, Personal, Unknown)
+     * Number of devices based on ownership (i.e. Corporate/School, Personal, Unknown)
 
 This dashboard example represent only data from Microsoft Intune. When this data is combined with other data sources, they can illustrate how device patterns can relate to student demographics, etc. With such combined data, education systems can start to analyze whether new programs or interventions help to improve teaching and learning with digital tools.  
 
