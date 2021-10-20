@@ -23,7 +23,7 @@ Pulling data using this Microsoft Intune module provides solutions to these scen
 ## Module Impact 
 This Microsoft Intune module for OEA will leverage the Azure Synapse environment to aid education systems in bringing this data to their own Azure data lake for analysis. This includes a pipeline for extracting device data from Microsoft Intune through the Microsoft Graph API endpoint manager, providing a more detailed and accurate representation of student device accessibility outside of school. The PowerBI template included in this module can be used by system and school leaders to show:
 
-  - Which devices are linked to the education system.
+  - Which devices are linked to an education system.
      * Number of students with more than one device
      * Day and time of day of last device check in
      * Number of devices based on different OSs (i.e. Windows, iOS/iPadOS, macOS, Android)
