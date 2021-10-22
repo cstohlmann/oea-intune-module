@@ -32,8 +32,14 @@ This Microsoft Intune module for OEA will leverage the Azure Synapse environment
 This dashboard example represent only data from Microsoft Intune. When this data is combined with other data sources, they can illustrate how device patterns can relate to student demographics, etc. With such combined data, education systems can start to analyze whether new programs or interventions help to improve teaching and learning with digital tools.  
 
 ## Module Setup and Data Sources
- - Description of data sources: what it is used for, data available, data format, possible use cases or OEA packages it can be used for.
- - Explanation of how to use the module: prerequisites (like subscriptions), what types of data transfer services can be used to ingest in OEA
+### Data Sources
+<strong><em> Description of data sources: what it is used for, data available, data format, possible use cases or OEA packages it can be used for. </strong></em>
+ - Microsoft Intune Reports is used to collect "devices" data, as mentioned above. The data available includes all devices connected within a system, as well as the primary user user principal name (UPN) connected to the device, and their last check in date/time on this device. 
+ - This data is formatted in CSV files; both the sample datasets and the your own data ingested through the pipeline are landed in this format. 
+
+### Module Setup
+<strong><em> Explanation of how to use the module: prerequisites (like subscriptions), what types of data transfer services can be used to ingest in OEA. </strong></em>
+ - [STILL NEEDS TO BE COMPLETED]
  
 ## Module Components
 Sample out-of-the box assets for this OEA module include: 
@@ -55,7 +61,7 @@ This module was developed by [name of contributor] in partnership with [name of 
 Provide any additional information and resources.
 
 # Legal Notices
-Microsoft and any contributors grant you a license to the Microsoft documentation and other content in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode), see the [LICENSE] file, and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the [LICENSE-CODE] file.
+Microsoft and any contributors grant you a license to the Microsoft documentation and other content in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode), see the [LICENSE](https://github.com/microsoft/OpenEduAnalytics/blob/main/LICENSE) file, and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the [LICENSE-CODE](https://github.com/microsoft/OpenEduAnalytics/blob/main/LICENSE-CODE) file.
 
 Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries. The licenses for this project do not grant you rights to use any Microsoft names, logos, or trademarks. Microsoft's general trademark guidelines can be found at http://go.microsoft.com/fwlink/?LinkID=254653.
 
