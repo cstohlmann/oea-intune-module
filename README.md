@@ -39,15 +39,19 @@ This dashboard example represent only data from Microsoft Intune. When this data
 
 ### Module Setup
 <strong><em> Explanation of how to use the module: prerequisites (like subscriptions), what types of data transfer services can be used to ingest in OEA. </strong></em>
- - [STILL NEEDS TO BE COMPLETED]
+ - You will need a subscription to Microsoft Intune or Office 365 (for Education), in order to access the Intune data used in this module: [click here to learn more about how to sign up Intune for Education purposes](https://www.microsoft.com/en-us/education/intune).
+ 1. To familiarize yourself with this module and what Intune Reports has to offer: first start by cloning the entire OEA repository via GitHub Desktop to your device locally.
+      * Then, navigate to the locally downloaded [datasets](https://github.com/cstohlmann/oea-intune-module/tree/main/datasets), [notebook](https://github.com/cstohlmann/oea-intune-module/blob/main/notebooks/Intune_module_setup.ipynb), and [PowerBI dashboard template](https://github.com/cstohlmann/oea-intune-module/blob/main/powerbi/Intune%20Reports%20Module%20Dashboard.pbix) within this module. 
+      * Next, upload the "intune_module" folder containing the dataset, and the notebook to your Azure Synapse environment.
+      * Run the notebook. Then, you can open up the PowerBI dashboard template (you'll want to use a DirectQuery of the serverless SQL database; [click here for information on how to do this](https://github.com/microsoft/OpenEduAnalytics/blob/main/docs/OpenEduAnalyticsSolutionGuide.pdf)).
+      * You can interact with the dashboard to gain understanding of what this template within the scope of this module.
  
 ## Module Components
-Sample out-of-the box assets for this OEA module include: 
-1. [Tutorial](https://github.com/cstohlmann/oea-graph-api/blob/main/docs/documents/Graph%20Reports%20API%20Tutorial.pdf): A tutorial of how to use this module within your own Synapse workspace, as well as demonstration to build a custom pipeline to pull data for your education tenant from Microsoft Intune.
-2. [Sample Datasets](https://github.com/cstohlmann/oea-intune-module/tree/main/datasets): Ingest sample data to understand the utility and functionality of the notebook(s).
-3. [Pipeline(s)](https://github.com/cstohlmann/oea-intune-module/tree/main/pipelines): A pipeline which connects Microsoft Intune via Microsoft Graph API endpoint manager, to the Synapse workspace.
-4. [Notebooks](https://github.com/cstohlmann/oea-intune-module/tree/main/notebooks): An example notebook on processing the data from stage 1 to stage 2 within Synapse. 
-5. [PowerBI Templates](https://github.com/cstohlmann/oea-intune-module/tree/main/powerbi): A Power BI sample template making it easy to interact with Microsoft Intune data.
+Out-of-the box assets for this OEA module include: 
+1. [Sample Datasets](https://github.com/cstohlmann/oea-intune-module/tree/main/datasets): Ingest sample data to understand the utility and functionality of the notebook(s).
+2. [Pipeline(s)](https://github.com/cstohlmann/oea-intune-module/tree/main/pipelines): A pipeline which connects Microsoft Intune via Microsoft Graph API endpoint manager, to the Synapse workspace.
+3. [Notebooks](https://github.com/cstohlmann/oea-intune-module/tree/main/notebooks): An example notebook on processing the data from stage 1 to stage 2 within Synapse. 
+4. [PowerBI Templates](https://github.com/cstohlmann/oea-intune-module/tree/main/powerbi): A Power BI sample template making it easy to interact with Microsoft Intune data.
 
  <p align="center">
  <strong><em> (INSERT POWERBI DASHBOARD VISUAL HERE) </strong></em>
