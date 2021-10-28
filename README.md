@@ -11,10 +11,10 @@ ou can use this Open Education Analytics (OEA) Microsoft Intune Reports module t
  </p>
 
 ## Problem Statement
-As education systems and institutions begin to incorporate more digital forms of learning, understanding the number of students without access to devices outside of school is vital. This "devices" data can be combined with other data sources (such as Azure Active Directory or M365 Insights data), to more accurately analyze which students do not have access to devices outside of school, or how demographics correlates with students that don't have access to devices outside of school, for example. 
+As education systems and institutions begin to incorporate more digital forms of learning, understanding the number of students without access to devices outside of school is vital. This "devices" data can be combined with other data sources (such as Azure Active Directory or M365 Insights data), to get a real time view of student use of devices especially outside physical school to ensure all students have sufficient ‘digital access’ for learning. This can also be combined with school and  class rosters, attendance, and grades from Student Information Systems to produce visualizations that help with intervention targeting. 
 
-Microsoft Insights data can be used for many different education purposes:
-  - Education system leader reports on the number of students with multiple devices registered.
+Microsoft Intune Reports data can be used for many different education purposes:
+  - Education system leader reporting on the number of students with multiple devices registered.
   -	School dashboards on a statistical breakdown of operating systems (OSs) being used.
   -	Class dashboards for teachers to see a statistical breakdown of students’ that do and do not have access to devices outside of school.
 
