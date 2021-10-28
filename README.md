@@ -42,7 +42,7 @@ This dashboard example represent only data from Microsoft Intune. When this data
  - You will need a subscription to Microsoft Intune or Office 365 (for Education), in order to access the Intune data used in this module: [click here to learn more about how to sign up Intune for Education purposes](https://www.microsoft.com/en-us/education/intune).
  1. Import the [Graph Reports API pipeline template for Intune](https://github.com/cstohlmann/oea-intune-module/tree/main/pipelines) into your Synapse workspace, connect a Graph API linked service, and trigger the pipeline.
  2. Load and run the [Intune Reports module notebook](https://github.com/cstohlmann/oea-intune-module/tree/main/notebooks) into your Synapse workspace. Two spark databases (s2np_intune and s2p_intune) will be created.
- 3. Download the Power BI template file [Intune Reports](https://github.com/cstohlmann/oea-intune-module/tree/main/powerbi) and connect to your Synapse workspace serverless SQL endpoint. We recommend using a directQuery from the s2p_intune database.
+ 3. Download the Power BI template file [Intune Reports Module Dashboard](https://github.com/cstohlmann/oea-intune-module/tree/main/powerbi) and connect to your Synapse workspace serverless SQL endpoint. We recommend using a directQuery from the s2p_intune database.
  
 ## Module Components
 Out-of-the box assets for this OEA module include: 
