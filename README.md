@@ -54,7 +54,7 @@ Out-of-the box assets for this OEA module include:
  <strong><em> (INSERT POWERBI DASHBOARD VISUAL HERE) </strong></em>
  </p>
  
-The Microsoft Intune module [welcome contributions](https://github.com/microsoft/OpenEduAnalytics/blob/main/CONTRIBUTING.md).
+The Microsoft Intune module [welcomes contributions...](https://github.com/microsoft/OpenEduAnalytics/blob/main/CONTRIBUTING.md).
 
 This module was developed by the Open Education Analytics teams and volunteers from the 2021 Microsoft Global Hackathon in partnership with Kwantum Analytics. The architecture and reference implementation for all modules is built on [Azure Synapse Analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/) - with [Azure Data Lake Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) as the storage backbone, and [Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) providing the role-based access control.
 
