@@ -7,15 +7,11 @@ The Intune module template consists of 1 reporting page:
  - visual 3 name - description of visual
  - visual 4 name - description of visual
 
- <p align="center">
- <strong><em> (INSERT POWERBI DASHBOARD VISUAL HERE) </strong></em>
- </p>
+![image](https://github.com/cstohlmann/oea-intune-module/blob/0b36a9e9d2e194956049073f840eff3f7b690be6/docs/images/Intune%20PowerBI%20Dashboard.png)
 
 ## Star Schema
 This PowerBI module is made up of 1 table.
- <p align="center">
- <strong><em> (INSERT STAR SCHEMA HERE) </strong></em>
- </p>
+![image](https://github.com/cstohlmann/oea-intune-module/blob/e2e5e532bf20963da4e5d3f8d02420f8f204473f/docs/images/Intune%20Semantic%20Model.png)
 
 ### Table Details 
 | Table | Column | Description |
