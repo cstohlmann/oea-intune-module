@@ -1,8 +1,8 @@
 # Microsoft Intune Reports Module
 Microsoft Intune is a cloud-based service that focuses on the management of devices connected to a system. Microsoft Intune provides a wealth of options, from setting up which websites the devices within a system can access, to extracting data of all the devices linked to that system through the management of Microsoft Graph API endpoints. For the purpose of this module, we will be focusing on the collection and use of the "devices" data within Azure Synapse Analytics. 
 
-You can use this Open Education Analytics (OEA) Microsoft Intune Reports module to ingest device data into your organization's data lake to get a real time view of student use of devices especially outside physical school to ensure all students have sufficient ‘digital access’ for learning. This can also be combined with school and  class rosters, attendance, and grades from Student Information Systems to produce visualizations that help with intervention targeting. 
- 
+ou can use this Open Education Analytics (OEA) Microsoft Intune Reports module to incorporate device data into your organization's Synapse data lake.
+
  ![alt text](https://github.com/cstohlmann/oea-intune-module/blob/main/docs/images/Intune%20visual.png)
  <p align="center">
  <emp>
