@@ -50,9 +50,7 @@ Out-of-the box assets for this OEA module include:
 4. [Notebook(s)](https://github.com/cstohlmann/oea-intune-module/tree/main/notebooks): An example notebook on processing the data from stage 1 to stage 2 within Synapse. 
 5. [PowerBI Templates](https://github.com/cstohlmann/oea-intune-module/tree/main/powerbi): A Power BI sample template making it easy to interact with Microsoft Intune data.
 
- <p align="center">
- <strong><em> (INSERT POWERBI DASHBOARD VISUAL HERE) </strong></em>
- </p>
+![image](https://github.com/cstohlmann/oea-intune-module/blob/0b36a9e9d2e194956049073f840eff3f7b690be6/docs/images/Intune%20PowerBI%20Dashboard.png)
  
 The Microsoft Intune module [welcomes contributions...](https://github.com/microsoft/OpenEduAnalytics/blob/main/CONTRIBUTING.md).
 
